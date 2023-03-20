@@ -2,7 +2,7 @@
 - Mern Developer
 - I’m currently trying to create project to solidify my knowledge and improve my skills
 - I’m looking to collaborate on projects
-- You can reach me on [twitter](https://www.twitter.com/itscolyt)
+- You can reach me on [twitter](https://www.twitter.com/colTheDeveloper)
 - Hobbies:
    - Learning and Teaching Mathematics
    - Watching movies/series, reading manga and talking to people
